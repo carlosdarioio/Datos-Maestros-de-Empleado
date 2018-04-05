@@ -7,4 +7,4 @@ en cambio para mostrar (select) debes de hacerlo con el diseño y funcionamiento
 Faltantes:
 
 Falta editar las opciones de descargar en excel o pdf
-A todas la pag le falta el diseño dle sap!
+
